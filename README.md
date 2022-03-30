@@ -2,7 +2,7 @@
 
 A dark and cleaner colorscheme for kitty using the palette showed in the rxyhn dotfiles showcase
 
-![demonstration](./misc/demonstration)
+![demonstration](./misc/demonstration.png)
 
 ## Installation
 
